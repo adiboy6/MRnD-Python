@@ -1,0 +1,10 @@
+{
+  "mocktest1_probem1.py::test_get_right_rotations": true,
+  "mocktest1_probem2.py::test_smallest_palindrome": true,
+  "unit3_lesson_05_understanding_inspection.py::test_buggy_join": true,
+  "unit4_lesson_03_understanding_iterators.py": true,
+  "unit4_lesson_03_understanding_iterators.py::test_find_builtins_that_work_on_iterables": true,
+  "unit4_lesson_03_understanding_iterators.py::test_my_map": true,
+  "unit4_lesson_06_understanding_classes.py": true,
+  "unit4_lesson_06_understanding_classes.py::test_classes_are_object_factories": true
+}

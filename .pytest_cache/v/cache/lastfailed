@@ -1,0 +1,9 @@
+{
+  "mocktest2_problem3.py::test_kdigitnums": true,
+  "unit2_lesson_05_understanding_functions_part2.py": true,
+  "unit4_assignment_02.py": true,
+  "unit4_assignment_02.py::test_repeater_function": true,
+  "unit4_lesson_07_understanding_inheritance.py::test_inheritance_init": true,
+  "unit4_lesson_07_understanding_inheritance.py::test_inheritance_invoking_using_super": true,
+  "unit4_lesson_07_understanding_inheritance.py::test_inheritance_overrides": true
+}
